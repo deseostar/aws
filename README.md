@@ -19,7 +19,7 @@ IAM   보안
 
 Route 53
 
-Amazon QLDB
+Amazon QLDB 블록체인
 
 
 * 용어정리
@@ -44,6 +44,12 @@ https://aws.amazon.com/ko/certification/
 
 비공식
 https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
+
+* 기타
+
+네트워크 관리자의 기본소양 기능
+vpc, cloudFront, Route 53, direct connect
+
 
 추가로 이미지 '보이게' 넣는법
 깃허브 이슈즈 들어가서 create 누르고 그 창안에 사진을 드로그해서 넣으면 이미지가 주소로 변함그거 넣으면 됨!!
