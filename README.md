@@ -23,12 +23,16 @@ Amazon QLDB
 * 용어정리
 
 s3 웹호스팅
+
 infrastructure as code
+
 
 * 사용한 틀
 
 http://awskrug-sls-chat-app-front.s3-website.ap-northeast-2.amazonaws.com/
+
 termius
+
 terraform
 
 * aws certification 자격증
