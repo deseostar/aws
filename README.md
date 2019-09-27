@@ -44,3 +44,9 @@ https://aws.amazon.com/ko/certification/
 
 비공식
 https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
+
+추가로 이미지 '보이게' 넣는법
+깃허브 이슈즈 들어가서 create 누르고 그 창안에 사진을 드로그해서 넣으면 이미지가 주소로 변함그거 넣으면 됨!!
+
+<img width="1280" alt="AWS connecting" src="https://user-images.githubusercontent.com/46808557/65746240-3fb93a80-e139-11e9-8d4e-a66ced9a1020.png">
+<img width="1280" alt="AWS_BUCKET_NAME" src="https://user-images.githubusercontent.com/46808557/65746266-55c6fb00-e139-11e9-9dd7-23bb151a58e2.png">
