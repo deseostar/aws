@@ -37,7 +37,8 @@ terraform
 
 * aws certification 자격증
 
-- 공식
+공식
 https://aws.amazon.com/ko/certification/
-- 비공식
+
+비공식
 https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide
